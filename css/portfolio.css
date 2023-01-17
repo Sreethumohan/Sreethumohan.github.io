@@ -1,0 +1,42 @@
+.container
+{border: solid 3px light gray;
+			display: flex;
+			flex-direction: row-reverse;
+			justify-content: center;
+
+			
+		}
+		.b
+		{width: 450px;
+			height: 1000px;
+			padding: 50px;
+			
+			background: lightblue;}
+			.a{ width:550PX;
+			height:1060PX;
+			background:#D6E4E5; 
+			padding: 20px;
+	
+	
+
+			}
+			.img{align: center;
+				padding: 30px;
+				height: 150;
+				width: 120;}
+.contact{
+	width: 360px;
+	background: white;
+	color: black;
+	text-align: center;
+	height: 25px;
+	border-radius: ;
+	box-shadow: 5px 10px black;
+	
+}	
+/*pre{
+	font-family:bold;*/
+	.name{
+		float: right;
+	}
+	
